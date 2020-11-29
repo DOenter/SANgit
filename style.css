@@ -11,6 +11,6 @@ div{
     font-size: 20px;
     background-color: tomato;
 }
-.containe {
+div.containe {
     border: 2px solid green;
 }
