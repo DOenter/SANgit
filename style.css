@@ -1,6 +1,6 @@
 p {
     background-color: orangered;
 }
-h2 {
+p:first-of-type {
     background-color: violet;
 }
