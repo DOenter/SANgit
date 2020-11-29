@@ -2,7 +2,7 @@ p {
     background-color: orangered;
 }
 p:first-of-type {
-    color: violet;
+    color: blue;
 }
 div{
     height: 100px;
