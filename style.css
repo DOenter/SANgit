@@ -4,3 +4,10 @@ p {
 p:first-of-type {
     background-color: violet;
 }
+div{
+    height: 100px;
+    width:100px;
+    text-align: center;
+    font-size: 20px;
+    background-color: tomato;
+}
